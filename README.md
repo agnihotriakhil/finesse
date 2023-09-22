@@ -6,14 +6,7 @@ The first approach is using Stable Diffusion (`stable-diffusion-v1-4`) and finet
 
 More information about each of the above approaches can be found in `stable-diffusion/` and `cvae/` directories.
 
-Please download the data and store it in `$ROOT/data` repository. This `data/` folder should look like:
-
-└── data/
-    ├── compressed_images/
-    │   ├── image_id_1.jpg
-    │   ├── image_id_2.jpg
-    │   └── ...
-    └── product_data.json
+Please download the data and store it in `$ROOT/data` repository. This `data/` folder should have a `compressed_images` folder containing the images (<image_id_1>.jpg, <image_id_2>.jpg, ... ) and `product_data.json` file.
 
 ###### Model and Training
 
