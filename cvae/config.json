@@ -1,0 +1,16 @@
+{
+    "batch_size": 256,
+    "validation_split": 0.2,
+    "learning_rate": 0.001,
+    "weight_decay": 1e-05,
+    "num_epochs": 100,
+    "optimizer": "Adam",
+    "loss_function": "CrossEntropyLoss",
+    "device": "mps",
+    "data_dir": "data/",
+    "ann_filename": "product_data.json",
+    "image_dim": 128,
+    "image_channels": 3,
+    "text_dim": 128,
+    "latent_dim": 32
+}

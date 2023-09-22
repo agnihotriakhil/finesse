@@ -1,0 +1,32 @@
+2023-09-22 10:23:30 - finesse - DEBUG - Logger is working
+2023-09-22 10:26:43 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2023-09-22 10:26:43 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2023-09-22 10:26:43 - finesse - DEBUG - Data is loaded
+2023-09-22 10:26:44 - finesse - DEBUG - Starting training
+2023-09-22 10:26:48 - finesse - DEBUG - Epoch: 04, Iteration:    20, Train Loss: 8.65
+2023-09-22 10:26:53 - finesse - DEBUG - Epoch: 08, Iteration:    40, Train Loss: 8.11
+2023-09-22 10:26:58 - finesse - DEBUG - Epoch: 12, Iteration:    60, Train Loss: 7.54
+2023-09-22 10:27:03 - finesse - DEBUG - Epoch: 16, Iteration:    80, Train Loss: 7.89
+2023-09-22 10:27:07 - finesse - DEBUG - Epoch: 20, Iteration:   100, Train Loss: 7.23
+2023-09-22 10:27:12 - finesse - DEBUG - Epoch: 24, Iteration:   120, Train Loss: 7.00
+2023-09-22 10:27:17 - finesse - DEBUG - Epoch: 28, Iteration:   140, Train Loss: 6.87
+2023-09-22 10:27:22 - finesse - DEBUG - Epoch: 32, Iteration:   160, Train Loss: 6.31
+2023-09-22 10:27:26 - finesse - DEBUG - Epoch: 36, Iteration:   180, Train Loss: 6.36
+2023-09-22 10:27:31 - finesse - DEBUG - Epoch: 40, Iteration:   200, Train Loss: 6.24
+2023-09-22 10:27:36 - finesse - DEBUG - Epoch: 44, Iteration:   220, Train Loss: 6.04
+2023-09-22 10:27:41 - finesse - DEBUG - Epoch: 48, Iteration:   240, Train Loss: 5.43
+2023-09-22 10:27:46 - finesse - DEBUG - Epoch: 52, Iteration:   260, Train Loss: 5.71
+2023-09-22 10:27:51 - finesse - DEBUG - Epoch: 56, Iteration:   280, Train Loss: 5.47
+2023-09-22 10:27:56 - finesse - DEBUG - Epoch: 60, Iteration:   300, Train Loss: 5.29
+2023-09-22 10:28:00 - finesse - DEBUG - Epoch: 64, Iteration:   320, Train Loss: 4.95
+2023-09-22 10:28:05 - finesse - DEBUG - Epoch: 68, Iteration:   340, Train Loss: 4.69
+2023-09-22 10:28:10 - finesse - DEBUG - Epoch: 72, Iteration:   360, Train Loss: 4.21
+2023-09-22 10:28:15 - finesse - DEBUG - Epoch: 76, Iteration:   380, Train Loss: 3.97
+2023-09-22 10:28:20 - finesse - DEBUG - Epoch: 80, Iteration:   400, Train Loss: 3.91
+2023-09-22 10:28:24 - finesse - DEBUG - Epoch: 84, Iteration:   420, Train Loss: 3.86
+2023-09-22 10:28:29 - finesse - DEBUG - Epoch: 88, Iteration:   440, Train Loss: 3.78
+2023-09-22 10:28:34 - finesse - DEBUG - Epoch: 92, Iteration:   460, Train Loss: 3.67
+2023-09-22 10:28:39 - finesse - DEBUG - Epoch: 96, Iteration:   480, Train Loss: 3.62
+2023-09-22 10:28:43 - finesse - DEBUG - Epoch: 100, Iteration:   500, Train Loss: 3.59
+2023-09-22 10:28:44 - finesse - DEBUG - Finished Training
+2023-09-22 10:28:44 - finesse - DEBUG - Training time: 25.23 min
